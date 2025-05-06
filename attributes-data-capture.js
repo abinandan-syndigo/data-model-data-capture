@@ -1,6 +1,7 @@
 const XLSX = require('xlsx');
 const fs = require('fs');
 const path = require('path');
+const config = require('./config');
 
 // Define input and output directories
 const inputFolderPath = './data/input';

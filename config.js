@@ -1,3 +1,6 @@
-export default config ={
-    "sheetName":"ATTRIBUTES"
-}
+const config ={
+    "sheetName":"ATTRIBUTES",
+    "columnName":"DATA TYPE",
+};
+
+export default config;
